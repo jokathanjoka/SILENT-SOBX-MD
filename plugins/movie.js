@@ -25,7 +25,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬 SILENT-SOBX-MD 🎬*
+*🎬 JOEL-MD 🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}

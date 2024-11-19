@@ -25,45 +25,45 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 
 try{
-let madeMenu = `have a nice day @ *${pushname}*
+let madeMenu = `have a nice day *${pushname}*
 welcome to 𝙹𝙾𝚎𝚕 𝚖𝚍
 
-┏❐ 𝙹𝙾𝚎𝚕 𝚖𝚍 𝚋𝚘𝚝 ❑
+┏━━━❐ 𝙹𝙾𝚎𝚕 𝚖𝚍 𝚋𝚘𝚝 ❑
 ┃*ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
 ┃*ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 ┃*ɴᴀᴍᴇ ʙᴏᴛ* : *𝙹𝙾𝚎𝚕 𝚖𝚍*
 ┃*ᴄʀᴇᴀᴛᴏʀ* : *𝙹𝙾𝚎𝚕 𝚃𝚎𝚌𝚑*
 ┃*ᴠᴇʀsɪᴏɴs* : *7*
 ┃*ᴍᴇɴᴜ ᴄᴍᴅ* : *ᴍᴇɴᴜ ʟɪsᴛ*
-┗━❏
+┗━━━━━━━━━━━━━━━━━━━━❏
 
-┏❐ *DOWNLOADER-CMD* ❐ 
-┃*.ғʙ <ᴜʀʟ>*
-┃*.ɪɴꜱᴛᴀ <ᴜʀʟ>*
-┃*.ᴠɪᴅᴇᴏ <ᴜʀʟ>*
-┃*.ɢᴅʀɪᴠᴇ <ᴜʀʟ>*
-┃*.ᴛᴡɪᴛᴛᴇʀ <ᴜʀʟ>*
-┃*.ᴛᴛ<ᴜʀʟ>*
-┃*.ᴍᴇᴅɪᴀғɪʀᴇ <ᴜʀʟ>*
-┃*.ꜱᴏɴɢ <ϙᴜᴇʀʏ>*
-┃*.ᴘʟᴀʏ <ᴜʀʟ>*
-┃*.ᴠɪᴅᴇᴏ <ϙᴜᴇʀʏ>*
-┃*.ᴠɪᴅᴇᴏ <ᴜʀʟ>*
-┃*.ɪᴍɢ <ϙᴜᴇʀʏ>*
-┃*.ᴀᴘᴋ <ɴᴀᴍᴇ>*
-┃*.xᴠɪᴅᴇᴏ <ᴛɪᴛᴛʟᴇ>*
-┗━❏
-┏❐ *SEARCH-CMD* ❑ 
-┃*.ʏᴛꜱ  <ᴛᴇxᴛ>*
-┃*.ʟᴏʟɪ <ᴛᴇxᴛ>*
-┃*ᴍᴏᴠɪᴇ <ᴛᴇxᴛ>*
-┃*.ɪᴍɢ <ᴛᴇxᴛ>*
-┃*.ᴡᴇᴀᴛʜᴇʀ <ᴄɪᴛʏ>
-┗━❑
-┏❐ *AI-CMD* ❑ 
-┃*.ɢᴘᴛ <ᴛᴇxᴛ>*
-┃*.ᴀɪ <ᴛᴇxᴛ>*
-┗━❑
+*DOWNLOADER-CMD* ❐ 
+*.ғʙ <ᴜʀʟ>*
+*.ɪɴꜱᴛᴀ <ᴜʀʟ>*
+*.ᴠɪᴅᴇᴏ <ᴜʀʟ>*
+*.ɢᴅʀɪᴠᴇ <ᴜʀʟ>*
+*.ᴛᴡɪᴛᴛᴇʀ <ᴜʀʟ>*
+*.ᴛᴛ<ᴜʀʟ>*
+*.ᴍᴇᴅɪᴀғɪʀᴇ <ᴜʀʟ>*
+*.ꜱᴏɴɢ <ϙᴜᴇʀʏ>*
+*.ᴘʟᴀʏ <ᴜʀʟ>*
+*.ᴠɪᴅᴇᴏ <ϙᴜᴇʀʏ>*
+*.ᴠɪᴅᴇᴏ <ᴜʀʟ>*
+*.ɪᴍɢ <ϙᴜᴇʀʏ>*
+*.ᴀᴘᴋ <ɴᴀᴍᴇ>*
+*.xᴠɪᴅᴇᴏ <ᴛɪᴛᴛʟᴇ>*
+
+ *SEARCH-CMD* ❑ 
+*.ʏᴛꜱ  <ᴛᴇxᴛ>*
+*.ʟᴏʟɪ <ᴛᴇxᴛ>*
+*ᴍᴏᴠɪᴇ <ᴛᴇxᴛ>*
+*.ɪᴍɢ <ᴛᴇxᴛ>*
+*.ᴡᴇᴀᴛʜᴇʀ <ᴄɪᴛʏ>
+
+*AI-CMD* ❑ 
+*.ɢᴘᴛ <ᴛᴇxᴛ>*
+*.ᴀɪ <ᴛᴇxᴛ>*
+
 *OWNER-CMD* 
 *.ᴜᴘᴅᴀᴛᴇᴄᴍᴅ*
 *.ᴏᴡɴᴇʀ*
@@ -154,6 +154,10 @@ welcome to 𝙹𝙾𝚎𝚕 𝚖𝚍
 *.ǫᴜᴏᴛᴇ*
 *.ꜱʀᴇᴘᴏ*
 *.ᴅᴇꜰɪɴᴇ*
+
+https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
+
+powered by 𝙹𝙾𝚎𝚕
 `
 
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})

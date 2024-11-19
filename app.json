@@ -39,14 +39,14 @@
 
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
@@ -69,33 +69,27 @@
 
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
-      "required": true,
-      "value": "false"
+      "required": false,
+      "value": "true"
     }, 
 
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
-      "required": true,
-      "value": "true"
+      "trierequired": false,
+      "value": ""
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     },
 
     "OWNER_REACT": {
       "description": "Make it true if you want bot OwnerReact.",
       "required": true,
       "value": "true"
-    
-    }, 
-
-    "BOT_NAME": {
-      "description": "write hear your name.",
-      "required": true,
-      "value": "✦ᴊᴏᴇʟ-ᴍᴅ✦"
+ 
     }
 
 },

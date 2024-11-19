@@ -37,7 +37,7 @@ welcome to 𝙹𝙾𝚎𝚕 𝚖𝚍
 ┃*ᴍᴇɴᴜ ᴄᴍᴅ* : *ᴍᴇɴᴜ ʟɪsᴛ*
 ┗━━━━━━━━━━━━━━━━━━━━❏
 
-*DOWNLOADER-CMD* ❐ 
+*DOWNLOADER-CMD* 
 *.ғʙ <ᴜʀʟ>*
 *.ɪɴꜱᴛᴀ <ᴜʀʟ>*
 *.ᴠɪᴅᴇᴏ <ᴜʀʟ>*
@@ -53,14 +53,14 @@ welcome to 𝙹𝙾𝚎𝚕 𝚖𝚍
 *.ᴀᴘᴋ <ɴᴀᴍᴇ>*
 *.xᴠɪᴅᴇᴏ <ᴛɪᴛᴛʟᴇ>*
 
- *SEARCH-CMD* ❑ 
+ *SEARCH-CMD* 
 *.ʏᴛꜱ  <ᴛᴇxᴛ>*
 *.ʟᴏʟɪ <ᴛᴇxᴛ>*
 *ᴍᴏᴠɪᴇ <ᴛᴇxᴛ>*
 *.ɪᴍɢ <ᴛᴇxᴛ>*
 *.ᴡᴇᴀᴛʜᴇʀ <ᴄɪᴛʏ>
 
-*AI-CMD* ❑ 
+*AI-CMD*
 *.ɢᴘᴛ <ᴛᴇxᴛ>*
 *.ᴀɪ <ᴛᴇxᴛ>*
 
@@ -155,9 +155,7 @@ welcome to 𝙹𝙾𝚎𝚕 𝚖𝚍
 *.ꜱʀᴇᴘᴏ*
 *.ᴅᴇꜰɪɴᴇ*
 
-https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
-
-powered by 𝙹𝙾𝚎𝚕
+keep using *JOel* md 
 `
 
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})

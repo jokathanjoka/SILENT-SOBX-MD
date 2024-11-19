@@ -1,7 +1,7 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "name": "𝙹𝙾𝚎𝚕 𝚖𝚍",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʟᴏʀᴅ ᴊᴏᴇʟ",
+  "logo": "https://files.catbox.moe/5a2euh.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/h5ddpq.jpg"
+      "value": "https://files.catbox.moe/5a2euh.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HII DEAR IM ONLINE.!!♻️"
+      "value": "HII DEAR IM JOEL MD"
     },
     
     "PREFIX": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "✦ᴊᴏᴇʟ-ᴍᴅ✦"
     }
 
 },

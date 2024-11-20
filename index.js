@@ -1,4 +1,3 @@
-
 const {
 default: makeWASocket,
 useMultiFileAuthState,
@@ -29,7 +28,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['255622420498']
+const ownerNumber = ['255767570963']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -39,7 +38,7 @@ const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
-console.log("SESSION DOWNLOADED COMPLETED ✅")
+console.log("Session Download Completed")
 })})}
 
 const express = require("express");
@@ -49,7 +48,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING JOEL-MD BOT🧬...");
+console.log("Connecting Bentley...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -61,7 +60,7 @@ const conn = makeWASocket({
         auth: state,
         version
         })
-    
+
 conn.ev.on('connection.update', (update) => {
 const { connection, lastDisconnect } = update
 if (connection === 'close') {
@@ -69,26 +68,17 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('♻️ INSTALLING PLUGINS FILES PLEASE WAIT... 🪄')
+console.log('Installing joel Plugins Please Wait...')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('JOEL-MD CONNECTED TO WHATSAPP ENJOY ✅')
-
-let up = `╔══════☐
-║☐𝙹𝙾𝙴𝙻 𝙼𝙳 𝙱𝙾𝚃
-║☐𝙼𝙾𝙳𝙴: ${md} mode
-║☐𝙿𝚁𝙴𝙵𝙸𝚇: [ ${prefixe} ]
-║☐𝙲𝚁𝙴𝙰𝚃𝙾𝚁:𝙻𝙾𝚛𝚍 𝙹𝚘𝚎𝚕
-╚═══════════════╝
-╔═══════════════╗
- ☐https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
-╚═══════════════╝`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
+console.log('Pluggins Installation Succeed')
+console.log('*joel Connected Successful, Enjoy*')
+let up = `*hellow I'm joel md *`;
+conn.sendMessage(conn.user.id, { image: { url: `https://i.imgur.com/UMQasAB.jpeg` }, caption: up })
 
 }
 })
@@ -96,7 +86,7 @@ conn.ev.on('creds.update', saveCreds)
 
 conn.ev.on('messages.upsert', async(mek) => {
 mek = mek.messages[0]
-if (!mek.message) return	
+if (!mek.message) return        
 mek.message = (getContentType(mek.message) === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
 if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_READ_STATUS === "true"){
 await conn.readMessages([mek.key])
@@ -129,7 +119,7 @@ const isReact = m.message.reactionMessage ? true : false
 const reply = (teks) => {
 conn.sendMessage(from, { text: teks }, { quoted: mek })
 }
-        
+
 conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               let mime = '';
               let res = await axios.head(url)
@@ -155,30 +145,30 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 //================ownerreact
 if(senderNumber.includes("255781144539")){
 if(isReact) return
-m.react("👑")
+m.react("")
 }
 
 if(senderNumber.includes("255714595078")){
 if(isReact) return
-m.react("👑")
+m.react("")
 }
 
 if(senderNumber.includes("255767570963")){
 if(isReact) return
-m.react("🦋")
+m.react("")
 }
 //==========================public react===============//
 //AutoReact 
 if (!isReact && senderNumber !== botNumber) {
-if (config.AUTO_REACT === 'true')
-    m.react("💖");
+if (config.AUTO_REACT === 'false')
+    m.react("");
 }
 if (!isReact && senderNumber === botNumber) {
-if (config.OWNER_REACT === 'true')
-    m.react("👑");
+if (config.OWNER_REACT === 'false')
+    m.react("");
 }                
 //============================        
-        
+
 //=================================WORKTYPE=========================================== 
 if(!isOwner && config.MODE === "private") return
 if(!isOwner && isGroup && config.MODE === "inbox") return
@@ -189,7 +179,7 @@ if(!isOwner && isGroup && config.MODE === "groups") return
 
 
 
-        
+
 const events = require('./command')
 const cmdName = isCmd ? body.slice(1).trim().split(" ")[0].toLowerCase() : false;
 if (isCmd) {
@@ -224,7 +214,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("I'm joel md bot");
+res.send("Hello, I'm joel md");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {

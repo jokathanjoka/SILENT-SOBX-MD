@@ -22,7 +22,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V2&description=🥂THE%20WO
 ----------
 
 
-<a href="https://web-pair-silent-sobx-md.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-babypink?style=for-the-badge&logo=render"></a>
+<a href="https://web-pair-silent-sobx-md.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge//PAIRING CODE:-babypink?style=for-the-badge&logo=render"></a>
 <p/>
 
 ----------

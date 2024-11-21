@@ -8,7 +8,7 @@
 
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20JOEL%20TECH%20432%20KING%20OF%20KINGS%20OWNER%20OF%20JOEL%20MD%20SOBIA%20BUTT♥️&image=https://files.catbox.moe/5a2euh.jpg?v=4&backgroundColor=%23ecf0f1&github=joeljamestech&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20JOEL%20TECH%20432%20KING%20OF%20KINGS%20OWNER%20OF%20JOEL%20MD%20SOBIA%20BUTT♥️&image=https://files.catbox.moe/5a2euh.jpg?v=4&backgroundColor=%23ecf0f1&github=joeljamestech&pattern=leaf&colorPattern=%23eaeaea"/>
 
 
 
@@ -17,7 +17,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V2&description=🥂THE%20WO
 
 
 
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+2557145950xx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+2557145950xx THEN YOU CAN GET YOUR SESSION_ID`
 
 
 
@@ -27,7 +27,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V2&description=🥂THE%20WO
  
 ### <br>    DEPLOY_HEROKU 
 
-`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
 
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
@@ -46,7 +46,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V2&description=🥂THE%20WO
 
 ### <br>   DEPLOY_KOYEB 
 
-`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
+`IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON `
 
 
 <a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
@@ -54,7 +54,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V2&description=🥂THE%20WO
 
 ### <br>  DEPLOY_RAILWAY 
 
-`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
+`IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON`
 
 
 

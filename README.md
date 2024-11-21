@@ -1,7 +1,5 @@
 
 
-**`JOEL MD THE WORLD BEST WHATSAPP BOT`**
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 

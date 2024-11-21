@@ -69,19 +69,18 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V2&description=🥂THE%20WO
 
 <a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
 
---------
+
 
 ### <br>   DEPLOY_CODESPACE 
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
---------
 
 ### <br>    DEPLOY_RENDER 
 
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
------------
+
 
 ### <br>    DEPLOY_WORKFLOWS 
 ```

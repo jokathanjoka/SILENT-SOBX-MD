@@ -21,8 +21,8 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 
 
-<a href="https://web-pair-silent-sobx-md.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badgePAIRING CODE:-babypink?style=for-the-badge&logo=render"></a>
-<p/>
+<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
+
 
  
 ### <br>    DEPLOY_HEROKU 

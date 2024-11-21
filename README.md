@@ -1,8 +1,7 @@
----------
+
 
 **`JOEL MD THE WORLD BEST WHATSAPP BOT CREATED BY JOELJAMESTECH`**
 
-----------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 

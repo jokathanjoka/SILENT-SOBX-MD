@@ -5,8 +5,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`JOEL+-+MD+WHATSAPP+BOT`" alt="">
 
 
 <img align="center" height="auto"
@@ -193,22 +191,8 @@ jobs:
       run: npm start
 ```
 
------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ------------
-
----------
-
-![IMG-20240330-WA0000](https://github.com/user-attachments/assets/62d3bffd-d1ec-4cb9-a5b1-28b745b90a90)
-
--------------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
------------
 
 ***THANKS FOR USING JOEL-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE: JOEL-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY JOELJAMESTECH KING OF WHATSAPP***
 

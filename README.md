@@ -13,17 +13,15 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V2&description=🥂THE%20WO
 
 
 
-### <br> DEPLOY AND SESSION METHOD 
+### <br>GET SESSION ID
 
-
-### <br>     SESSION_ID 
 
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 ----------
 
-<p align="center">
+
 <a href="https://web-pair-silent-sobx-md.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-babypink?style=for-the-badge&logo=render"></a>
 <p/>
 

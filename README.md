@@ -15,19 +15,6 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V2&description=🥂THE%20WO
 
 ### <br> DEPLOY AND SESSION METHOD 
 
-<br>
-
-`✠ HOW TO DEPLOY SILENT-SOBX-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
-
--------------
-
-<p align="center">
-   <a href="https://youtu.be/koyMJgbhJSg?si=x-bXqVOajxOIUj80"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
-
----------------
-
 
 ### <br>     SESSION_ID 
 

@@ -21,7 +21,8 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 
 
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/PAIRING CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
  

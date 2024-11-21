@@ -41,7 +41,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
  
 ### <br>    DEPLOY_HEROKU 
 
-`IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
+`IF YOU WANT TO DEPLOY JOEL-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
 
  
 
@@ -51,7 +51,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 ### <br>     DEPLOY_REPLIT 
 
-`IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SILENT-SOBX-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT`
+`IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY JOEL-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT`
 
 
 
@@ -61,7 +61,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 ### <br>   DEPLOY_KOYEB 
 
-`IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON `
+`IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY JOEL-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON `
 
 
 
@@ -70,16 +70,17 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 ### <br>  DEPLOY_RAILWAY 
 
-`IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON`
+`IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY JOEL-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON`
 
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
-### <br> MORE DEPLOY METHOD
-
---
 ### <br>   DEPLOY_GLITCH 
+
+
+`IF YOU WANT TO DEPLOY JOEL-MD BOT ON GLITCH SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON TO DEPLOY THEN YOU CAN ENJOY THIS BOT`
+
 
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
@@ -90,11 +91,19 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 ### <br>   DEPLOY_CODESPACE 
 
 
+`IF YOU WANT TO DEPLOY JOEL-MD BOT ON CODE SPACE SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON TO DEPLOY THEN YOU CAN ENJOY THIS BOT`
+
+
+
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CDSPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
 ### <br>    DEPLOY_RENDER 
+
+`IF YOU WANT TO DEPLOY JOEL-MD BOT ON RENDER SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON TO DEPLOY THEN YOU CAN ENJOY THIS BOT`
+
+
 
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
